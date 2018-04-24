@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GBZCategoryKit_Example' do
+  pod 'GBZCategoryKit', :path => '../'
+
+  target 'GBZCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
