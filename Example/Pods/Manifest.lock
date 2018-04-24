@@ -1,5 +1,5 @@
 PODS:
-  - GBZCategoryKit (0.1.0)
+  - GBZCategoryKit (1)
 
 DEPENDENCIES:
   - GBZCategoryKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  GBZCategoryKit: 4525f4f1a57998a33d97c3f028f698a286b9d3eb
+  GBZCategoryKit: bcd6ea49030de5f027e7424ccbd6b0637a521e58
 
 PODFILE CHECKSUM: f713b5694d19b962d78e83ea713aa60632e3c75f
 
